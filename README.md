@@ -4,6 +4,7 @@
 
 它不是单篇小说成稿，而是一套可复用的方法论和项目结构，用来稳定管理：
 
+- 点子库
 - 基础文风
 - 局部“佐料文风”
 - 去 AI 味规则
@@ -19,6 +20,8 @@
 
 ## 核心模块
 
+- `00_inbox/ideas/`
+  - 存放还没进入正典的点子、画面、关系火花和开场感
 - `01_bible/style.md`
   - 定义全书最稳定的基础文风
 - `01_bible/style_spices/`
@@ -34,14 +37,16 @@
 
 ## 快速开始
 
-1. 先填写 `01_bible/premise.md`、`01_bible/style.md`、`01_bible/taboo.md`
-2. 在 `02_world/` 里建立角色、地点、组织和规则文件
-3. 在 `03_outline/` 里写总纲、章节索引和场景卡
-4. 写正文前先读 `style.md`、`anti_ai.md` 和当前场景相关文件
-5. 写完后把问题记到 `05_review/`，把正典变更记到 `00_system/changelog.md`
+1. 如果你现在只有一段文字、一个画面或一个模糊想法，先存进 `00_inbox/ideas/`
+2. 再把稳定下来的点子提炼成 `01_bible/premise.md`、`01_bible/style.md`、`01_bible/taboo.md`
+3. 在 `02_world/` 里建立角色、地点、组织和规则文件
+4. 在 `03_outline/` 里写总纲、章节索引和场景卡
+5. 写正文前先读 `style.md`、`anti_ai.md` 和当前场景相关文件
+6. 写完后把问题记到 `05_review/`，把正典变更记到 `00_system/changelog.md`
 
 ## 仓库里已经包含
 
+- 点子库模板
 - 中文模板文件
 - 多种 `style_spices` 示例
 - 去 AI 味规则
@@ -57,6 +62,11 @@
 |-- .gitignore
 |-- .vscode/
 |   `-- settings.json
+|-- 00_inbox/
+|   `-- ideas/
+|       |-- INDEX.md
+|       |-- README.md
+|       `-- TEMPLATE.md
 |-- 00_system/
 |   |-- workflow.md
 |   |-- prompts.md
@@ -101,14 +111,15 @@
 
 ## 使用方法
 
-1. 先填写 `01_bible/`，这里定义小说最稳定的核心身份。
-2. 用 `01_bible/style.md` 固定全书基础文风，再用 `01_bible/style_spices/` 管理局部“佐料风格”。
-3. 用 `01_bible/anti_ai.md` 约束“不要写出工业味”的常见错误。
-4. 如果准备发布到中国网文平台，用 `01_bible/plating_cn_webnovel.md` 做平台适配。
-5. 在 `02_world/` 中逐个建立世界设定文件，每个对象一个文件。
-6. 把宏观剧情放在 `03_outline/` 中维护。
-7. 只有当前场景卡准备好以后，再开始写正文。
-8. 把问题记录在 `05_review/`，不要把零碎备注散落进正文里。
+1. 还没成型的灵感、画面和关系火花，先放进 `00_inbox/ideas/`，不要直接写进正典文件。
+2. 先填写 `01_bible/`，这里定义小说最稳定的核心身份。
+3. 用 `01_bible/style.md` 固定全书基础文风，再用 `01_bible/style_spices/` 管理局部“佐料风格”。
+4. 用 `01_bible/anti_ai.md` 约束“不要写出工业味”的常见错误。
+5. 如果准备发布到中国网文平台，用 `01_bible/plating_cn_webnovel.md` 做平台适配。
+6. 在 `02_world/` 中逐个建立世界设定文件，每个对象一个文件。
+7. 把宏观剧情放在 `03_outline/` 中维护。
+8. 只有当前场景卡准备好以后，再开始写正文。
+9. 把问题记录在 `05_review/`，不要把零碎备注散落进正文里。
 
 ## 推荐写作流程
 

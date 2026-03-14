@@ -70,3 +70,12 @@
 原因：让“平台摆盘”从规则说明落到具体文本，方便后续直接对照体感差异
 影响文件：`04_draft/volume_01/DEMO_campus_light_banter_plated_cn_webnovel.md`, `04_draft/volume_01/DEMO_hyperverbal_crooked_logic_plated_cn_webnovel.md`
 后续动作：如有需要，可继续补“破碎青春冷叙风”的摆盘版示例
+
+## 2026-03-15
+
+日期：2026-03-15
+范围：前期开发流程
+变更：新增“点子库”层，用于存放还未进入正典的原始灵感、画面、关系火花和开场感
+原因：把“点子”与 `premise`、人物设定和正式大纲区分开，避免过早正典化，也方便后续筛选和升格
+影响文件：`README.md`, `AGENTS.md`, `00_system/workflow.md`, `00_system/prompts.md`, `00_inbox/ideas/`
+后续动作：后续收到新的原始文字时，先整理成点子卡，再决定是否升格为正典
