@@ -21,6 +21,7 @@
 - `01_bible/premise.md`
 - `01_bible/style.md`
 - `01_bible/anti_ai.md`
+- 如果目标是平台连载，再加入 `01_bible/plating_cn_webnovel.md`
 - 如果场景卡指定了局部风味，再加入对应的 `01_bible/style_spices/*.md`
 - 当前相关人物文件
 - 当前相关地点文件
@@ -40,9 +41,18 @@
 
 - `01_bible/style.md`
 - `01_bible/anti_ai.md`
+- 如果目标是平台连载，再加入 `01_bible/plating_cn_webnovel.md`
 - 如果当前段落使用了局部风味，再加入对应的 `style_spices` 文件
 - 正文中 2 到 3 段质量较高的参考段落
 - 需要修正的段落
+
+### 上下文包：平台摆盘
+
+- `01_bible/style.md`
+- `01_bible/anti_ai.md`
+- `01_bible/plating_cn_webnovel.md`
+- 当前章节正文
+- 当前场景卡
 
 ### 上下文包：风味设计
 
@@ -62,7 +72,8 @@
 7. 做一次连续性检查。
 8. 做一次文风检查。
 9. 做一次反工业味检查。
-10. 记录新增的义务、线索和正典决定。
+10. 如果准备发布，再做一次平台摆盘检查。
+11. 记录新增的义务、线索和正典决定。
 
 ## 变更控制
 
