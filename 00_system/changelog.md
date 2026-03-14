@@ -35,3 +35,10 @@
 原因：为章节或片段提供可控的局部轻快感、吐槽节奏和青春群像气氛
 影响文件：`01_bible/style_spices/campus_light_banter.md`
 后续动作：在后续场景卡中按需填写该文件，并控制混合强度在轻度到中度
+
+日期：2026-03-14
+范围：写法约束
+变更：新增 `01_bible/anti_ai.md`，用于记录去工业味规则，并补充反工业味检查流程
+原因：把“不要写得太像 AI”从口头经验变成可复用的工作流约束
+影响文件：`01_bible/anti_ai.md`, `README.md`, `AGENTS.md`, `00_system/workflow.md`, `00_system/prompts.md`, `01_bible/style.md`, `03_outline/scene_cards/TEMPLATE.md`
+后续动作：后续对每个重要场景做一次反工业味检查，并把重复出现的问题记到 `05_review/style_issues.md`
