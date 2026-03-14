@@ -42,3 +42,10 @@
 原因：把“不要写得太像 AI”从口头经验变成可复用的工作流约束
 影响文件：`01_bible/anti_ai.md`, `README.md`, `AGENTS.md`, `00_system/workflow.md`, `00_system/prompts.md`, `01_bible/style.md`, `03_outline/scene_cards/TEMPLATE.md`
 后续动作：后续对每个重要场景做一次反工业味检查，并把重复出现的问题记到 `05_review/style_issues.md`
+
+日期：2026-03-14
+范围：佐料风格
+变更：新增“破碎青春冷叙风”佐料文件，用于不可靠青春叙述、轻微异常感和冷淡嘴硬的危险关系场景
+原因：把一组“破碎青春、冷叙、自嘲、微弱奇迹感”的作品气质抽象成可复用风味，而不是直接模仿具体作品
+影响文件：`01_bible/style_spices/distorted_youth_deadpan.md`
+后续动作：后续如有需要，再拆分成“病态亲密感”和“微弱奇迹感”两个更细的佐料分支
