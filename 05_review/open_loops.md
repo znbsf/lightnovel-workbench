@@ -1,11 +1,11 @@
-# Open Loops
+# 未回收线索
 
-Track setups that still need a later payoff.
+记录那些已经埋下、但后面还需要回收的内容。
 
-## Template
+## 模板
 
-- Setup:
-  Introduced in:
-  Expected payoff:
-  Deadline:
-  Status:
+- 埋设内容：
+  引入位置：
+  预期回收：
+  最晚回收点：
+  状态：

@@ -1,25 +1,25 @@
-# Master Outline
+# 总纲
 
-## Novel Spine
+## 小说主脊
 
-- Opening state:
-- Inciting incident:
-- First major turn:
-- Midpoint:
-- Crisis:
-- Climax:
-- Ending image:
+- 开场状态：
+- 引爆事件：
+- 第一次重大转折：
+- 中点：
+- 危机：
+- 高潮：
+- 结尾画面：
 
-## Arc Summary
+## 分幕概述
 
-Write 5 to 12 bullets covering the full novel.
+用 5 到 12 条要点概括整部小说。
 
-## Mystery And Payoff Map
+## 谜团与回收图
 
-- Setup:
-  Planned payoff:
-  Earliest reveal point:
+- 埋设：
+  计划回收：
+  最早揭示点：
 
-## Emotional Progression
+## 情绪推进
 
-Describe how the reader should feel across the major sections of the book.
+描述读者在小说各个主要阶段应该感受到什么。

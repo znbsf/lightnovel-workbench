@@ -1,23 +1,23 @@
-# Premise
+# 故事前提
 
-## One-Sentence Pitch
+## 一句话提案
 
-Write the clearest possible statement of the novel's core premise.
+用尽量清晰的一句话，写出这部小说最核心的前提。
 
-## Reader Promise
+## 读者承诺
 
-What emotional or narrative promise does the book make to the reader?
+这本书向读者承诺了怎样的情绪体验或叙事体验？
 
-## Core Conflict
+## 核心冲突
 
-- External conflict:
-- Internal conflict:
-- Irreversible pressure:
+- 外部冲突：
+- 内部冲突：
+- 不可逆压力：
 
-## Ending Direction
+## 结局方向
 
-Describe the intended end state without worrying about scene-by-scene detail.
+不必纠结逐场细节，先描述你希望故事最终抵达的状态。
 
-## Non-Negotiables
+## 不可动摇项
 
-List the elements that must remain true even if the outline changes.
+列出那些即使大纲后续调整，也必须保持为真的元素。

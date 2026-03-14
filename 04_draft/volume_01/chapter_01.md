@@ -1,11 +1,11 @@
-# Chapter 01
+# 第 01 章
 
-## Scene Goals
+## 场景目标
 
-- POV:
-- Chapter purpose:
-- Emotional movement:
+- 视角人物：
+- 章节作用：
+- 情绪变化：
 
-## Draft
+## 正文
 
-Write the chapter here.
+在这里写这一章。

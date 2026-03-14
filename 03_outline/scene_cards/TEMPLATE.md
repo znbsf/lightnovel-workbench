@@ -1,35 +1,35 @@
-# Scene Card
+# 场景卡
 
-## Header
+## 基本信息
 
-- ID:
-- Chapter:
-- POV:
-- Location:
-- Time:
+- 编号：
+- 所属章节：
+- 视角人物：
+- 地点：
+- 时间：
 
-## Scene Logic
+## 场景逻辑
 
-- Before:
-- Goal:
-- Obstacle:
-- Stakes:
-- Turn:
-- After:
+- 开始前状态：
+- 目标：
+- 阻碍：
+- 赌注：
+- 转折：
+- 结束后状态：
 
-## Required Content
+## 必须内容
 
-- Must include:
-- Must foreshadow:
-- Must not reveal:
+- 必须出现：
+- 必须埋下：
+- 绝不能揭示：
 
-## Tone Control
+## 语气控制
 
-- Emotional temperature:
-- Dialogue pressure:
-- Description priority:
+- 情绪温度：
+- 对话压力：
+- 描写优先级：
 
-## Draft Target
+## 起草目标
 
-- Recommended word count:
-- End beat:
+- 建议字数：
+- 结尾节拍：

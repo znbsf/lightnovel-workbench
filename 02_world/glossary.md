@@ -1,17 +1,17 @@
-# Glossary
+# 术语表
 
-Keep naming consistent.
+保持命名统一。
 
-## Terms
+## 术语
 
-- Term:
-  Meaning:
-  First appearance:
-  Notes:
+- 术语：
+  含义：
+  首次出现：
+  备注：
 
-## Naming Rules
+## 命名规则
 
-- Family names:
-- Place names:
-- Formal titles:
-- Slang:
+- 人名规则：
+- 地名规则：
+- 正式头衔：
+- 口语或黑话：

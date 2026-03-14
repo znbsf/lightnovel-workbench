@@ -1,28 +1,28 @@
-# Prompt Snippets
+# 提示词片段
 
-These snippets are intentionally short. Adapt them to the current files instead of using them blindly.
+这些片段故意写得很短。使用时请结合当前文件，不要机械照抄。
 
-## Scene Beats
+## 场景节拍
 
-Read `01_bible/style.md`, the relevant world files, and the current scene card.
-Produce 5 to 8 beats for the scene.
-Each beat should include action, emotional shift, and new information.
-Do not draft prose yet.
+读取 `01_bible/style.md`、相关世界设定文件和当前场景卡。
+给出这场戏的 5 到 8 条节拍。
+每条节拍都要包含动作、情绪变化和新增信息。
+先不要直接写正文。
 
-## Scene Draft
+## 场景正文
 
-Read the current scene card and the immediately previous draft section.
-Write 800 to 1200 words.
-Keep the prose aligned with `01_bible/style.md`.
-Do not introduce any fact not supported by `02_world/` or `03_outline/`.
+读取当前场景卡和上一段正文。
+写 800 到 1200 字。
+文风要与 `01_bible/style.md` 保持一致。
+不要引入任何 `02_world/` 或 `03_outline/` 中没有支撑的事实。
 
-## Continuity Audit
+## 连续性审查
 
-Compare this draft against the current outline, timeline, and character files.
-List contradictions, premature reveals, missing callbacks, and suspicious new assumptions.
+把这段正文与当前大纲、时间线和人物文件对照。
+列出矛盾点、过早揭示、缺失回收和可疑的新假设。
 
-## Voice Repair
+## 文风修正
 
-Compare this passage to the voice rules in `01_bible/style.md`.
-Rewrite it to match the target rhythm, imagery, and dialogue restraint.
-Preserve plot facts.
+把这段文字与 `01_bible/style.md` 的规则进行对照。
+重写时对齐目标节奏、意象和对话克制程度。
+保留剧情事实不变。

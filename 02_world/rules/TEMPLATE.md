@@ -1,23 +1,23 @@
-# Rule Template
+# 规则模板
 
-## Rule
+## 规则
 
-State the rule in one sentence.
+用一句话说清这条规则。
 
-## Scope
+## 适用范围
 
-Where and when does it apply?
+它在什么地方、什么条件下生效？
 
-## Cost
+## 代价
 
-What does it demand or forbid?
+它要求什么，或禁止什么？
 
-## Evidence
+## 证据
 
-How has the story shown this rule so far?
+故事目前是如何展示这条规则的？
 
-## Exploits And Limits
+## 利用方式与边界
 
-- Common misuse:
-- Edge case:
-- Absolute limit:
+- 常见误用：
+- 边缘情况：
+- 绝对上限：

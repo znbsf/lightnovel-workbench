@@ -1,8 +1,8 @@
-# Workflow
+# 工作流
 
-## Stable Order Of Truth
+## 稳定的真相优先级
 
-When files disagree, use this priority:
+当不同文件互相冲突时，按下面的优先级判断：
 
 1. `01_bible/`
 2. `02_world/`
@@ -10,48 +10,48 @@ When files disagree, use this priority:
 4. `04_draft/`
 5. `05_review/`
 
-If the draft contradicts canon, either revise the draft or record a deliberate retcon in `00_system/changelog.md`.
+如果正文和既有正典冲突，要么修改正文，要么把这次重设明确记录到 `00_system/changelog.md`。
 
-## Context Packs
+## 上下文包
 
-Use compact context packs instead of loading the full project every time.
+不要每次都把整个项目喂给 AI，优先使用紧凑的上下文包。
 
-### Pack: New Scene Draft
+### 上下文包：新场景起草
 
 - `01_bible/premise.md`
 - `01_bible/style.md`
-- Relevant character file
-- Relevant location file
-- Current arc file
-- Current scene card
-- The previous 500 to 1500 words of draft
+- 当前相关人物文件
+- 当前相关地点文件
+- 当前分幕文件
+- 当前场景卡
+- 正文中前一段 500 到 1500 字
 
-### Pack: Continuity Review
+### 上下文包：连续性检查
 
-- Current chapter draft
+- 当前章节正文
 - `02_world/timeline.md`
-- Relevant character files
+- 相关人物文件
 - `03_outline/chapter_index.md`
 - `05_review/open_loops.md`
 
-### Pack: Voice Correction
+### 上下文包：文风校正
 
 - `01_bible/style.md`
-- 2 or 3 good sample passages from the draft
-- The problematic passage
+- 正文中 2 到 3 段质量较高的参考段落
+- 需要修正的段落
 
-## Daily Loop
+## 每日循环
 
-1. Clarify the next scene objective.
-2. Update the scene card.
-3. Generate beats.
-4. Draft the scene.
-5. Run a continuity pass.
-6. Run a style pass.
-7. Record any new obligations, clues, or canon decisions.
+1. 明确下一场戏的目标。
+2. 更新场景卡。
+3. 生成节拍。
+4. 起草正文。
+5. 做一次连续性检查。
+6. 做一次文风检查。
+7. 记录新增的义务、线索和正典决定。
 
-## Change Control
+## 变更控制
 
-Write in the draft.
-Decide canon in the bible or world files.
-Track exceptions in the review files.
+正文写在草稿里。  
+正典决定写进核心设定目录或世界设定目录。  
+例外和问题记录在审校目录里。

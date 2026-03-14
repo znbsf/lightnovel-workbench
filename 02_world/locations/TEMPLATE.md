@@ -1,30 +1,30 @@
-# Location Template
+# 地点模板
 
-## Header
+## 基本信息
 
-- Name:
-- Type:
-- First appearance:
+- 名称：
+- 类型：
+- 首次出现：
 
-## Physical Identity
+## 物理特征
 
-- Size:
-- Layout:
-- Signature details:
-- Sensory cues:
+- 规模：
+- 布局：
+- 标志性细节：
+- 感官提示：
 
-## Narrative Use
+## 叙事用途
 
-- Who controls it:
-- What conflict it enables:
-- What secrets it holds:
+- 谁控制这里：
+- 这里能承载什么冲突：
+- 这里藏着什么秘密：
 
-## Constraints
+## 约束条件
 
-- Access limits:
-- Time-of-day effects:
-- Social meaning:
+- 进入限制：
+- 昼夜差异：
+- 社会意义：
 
-## Canon Facts
+## 正典事实
 
-List only stable facts already established.
+这里只写已经稳定建立的事实。

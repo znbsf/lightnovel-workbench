@@ -1,11 +1,11 @@
-# Continuity Notes
+# 连续性备注
 
-Track contradictions, timeline collisions, and knowledge leaks.
+记录设定矛盾、时间冲突和信息泄漏。
 
-## Template
+## 模板
 
-- Issue:
-  Evidence:
-  Risk:
-  Fix:
-  Status:
+- 问题：
+  证据：
+  风险：
+  修复方案：
+  状态：

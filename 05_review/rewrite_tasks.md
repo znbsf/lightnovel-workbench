@@ -1,11 +1,11 @@
-# Rewrite Tasks
+# 重写任务
 
-Use this file as a focused backlog for revision passes.
+把这个文件当作修订阶段的待办清单。
 
-## Template
+## 模板
 
-- Task:
-  Scope:
-  Why:
-  Blockers:
-  Status:
+- 任务：
+  范围：
+  原因：
+  阻塞项：
+  状态：

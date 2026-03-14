@@ -1,30 +1,30 @@
-# Faction Template
+# 势力模板
 
-## Header
+## 基本信息
 
-- Name:
-- Type:
-- Public image:
+- 名称：
+- 类型：
+- 对外形象：
 
-## Structure
+## 结构
 
-- Leader:
-- Internal ranks:
-- Resources:
-- Weaknesses:
+- 领导者：
+- 内部层级：
+- 资源：
+- 弱点：
 
-## Agenda
+## 议程
 
-- Public goal:
-- Private goal:
-- Pressure from rivals:
+- 公开目标：
+- 私下目标：
+- 来自对手的压力：
 
-## Story Use
+## 剧情用途
 
-- Main conflicts:
-- Linked characters:
-- Trigger events:
+- 主要冲突：
+- 关联人物：
+- 触发事件：
 
-## Canon Facts
+## 正典事实
 
-List only established facts.
+这里只写已经成立的事实。

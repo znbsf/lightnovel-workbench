@@ -1,8 +1,8 @@
-# Novel Project Template
+# 小说项目模板
 
-This workspace is a reusable long-form fiction template for `VS Code + WSL + Codex` or any other AI writing assistant.
+这个工作区是一套适用于 `VS Code + WSL + Codex` 或其他 AI 写作助手的长篇小说模板。
 
-## Structure
+## 目录结构
 
 ```text
 .
@@ -48,23 +48,23 @@ This workspace is a reusable long-form fiction template for `VS Code + WSL + Cod
     `-- rewrite_tasks.md
 ```
 
-## How To Use
+## 使用方法
 
-1. Fill out `01_bible/` first. This is the stable identity of the novel.
-2. Build the world in `02_world/` as one-file-per-entity.
-3. Keep the macro plot in `03_outline/`.
-4. Draft only after the current scene card is ready.
-5. Track problems in `05_review/` instead of scattering notes through the draft.
+1. 先填写 `01_bible/`，这里定义小说最稳定的核心身份。
+2. 在 `02_world/` 中逐个建立世界设定文件，每个对象一个文件。
+3. 把宏观剧情放在 `03_outline/` 中维护。
+4. 只有当前场景卡准备好以后，再开始写正文。
+5. 把问题记录在 `05_review/`，不要把零碎备注散落进正文里。
 
-## Recommended Writing Loop
+## 推荐写作流程
 
-1. Update the current scene card in `03_outline/scene_cards/`.
-2. Ask the AI to produce 5 to 8 scene beats.
-3. Confirm the beats.
-4. Ask the AI to draft only that scene or chapter section.
-5. Review continuity, style drift, and unresolved clues.
-6. Record any canon changes in `00_system/changelog.md`.
+1. 更新 `03_outline/scene_cards/` 里的当前场景卡。
+2. 先让 AI 产出 5 到 8 条场景节拍。
+3. 确认节拍方向正确。
+4. 再让 AI 只写这一场戏，或这一章中的一个片段。
+5. 检查连续性、文风漂移和未回收线索。
+6. 把影响正典的变更记录进 `00_system/changelog.md`。
 
-## Git Tip
+## Git 建议
 
-Commit by chapter, scene, or revision pass. Small commits make it much easier to recover experiments and compare rewrites.
+按章节、场景或修订轮次提交。小而清晰的提交更方便回溯实验版本，也更适合比较不同重写方案。

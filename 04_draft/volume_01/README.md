@@ -1,13 +1,13 @@
-# Draft Notes
+# 正文说明
 
-Keep drafted prose here.
+这里存放已经起草的正文。
 
-## Naming Convention
+## 命名约定
 
 - `chapter_01.md`
 - `chapter_02.md`
 - `chapter_03.md`
 
-## Draft Rule
+## 草稿规则
 
-Do not store major canon facts only in the draft. If a fact becomes stable, also update the proper world or bible file.
+不要把重要正典事实只留在正文里。如果某个事实已经稳定成立，也要同步更新到对应的世界设定文件或核心设定文件中。

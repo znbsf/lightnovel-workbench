@@ -1,24 +1,24 @@
-# Arc 01
+# 第一幕
 
-## Arc Role
+## 这一幕的作用
 
-What does this arc change in the story?
+这一幕会改变故事中的什么？
 
-## Entry State
+## 进入状态
 
-Where are the characters and what is unstable?
+人物此刻身在何处，什么东西处于不稳定状态？
 
-## Exit State
+## 退出状态
 
-What is different by the end of the arc?
+这一幕结束时，什么已经发生了变化？
 
-## Chapter Beats
+## 章节节拍
 
-- Chapter:
-  External move:
-  Internal move:
-  New information:
+- 章节：
+  外部推进：
+  内部推进：
+  新增信息：
 
-## Risks
+## 风险点
 
-List places where pacing, repetition, or logic may drift.
+列出节奏、重复或逻辑容易漂移的地方。

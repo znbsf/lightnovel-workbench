@@ -1,48 +1,48 @@
-# Novel Project Rules
+# 小说项目规则
 
-This repository is a fiction-writing workspace. Any AI agent working here should treat it as a continuity-sensitive project, not a generic chat session.
+这个仓库是一个小说写作工作区。任何在这里工作的 AI 助手，都应该把它视为一个对连续性高度敏感的项目，而不是普通聊天窗口。
 
-## Primary Goal
+## 主要目标
 
-Help produce a coherent long-form novel while preserving canon, voice, pacing, and unresolved plot threads.
+帮助产出一部结构连贯的长篇小说，同时尽量保持正典、文风、节奏和未回收线索的稳定。
 
-## Read Order Before Writing
+## 写作前的读取顺序
 
-Before drafting any new prose, read the smallest relevant context set:
+在开始任何新的正文写作之前，先读取当前任务所需的最小上下文集合：
 
 1. `01_bible/premise.md`
 2. `01_bible/style.md`
 3. `01_bible/taboo.md`
-4. Relevant files in `02_world/`
-5. Relevant outline files in `03_outline/`
-6. The latest draft section in `04_draft/`
-7. `05_review/open_loops.md` if the scene touches a mystery or setup
+4. `02_world/` 中与当前场景相关的文件
+5. `03_outline/` 中与当前剧情相关的文件
+6. `04_draft/` 中最近一段正文
+7. 如果这一场涉及谜团或伏笔，还要读 `05_review/open_loops.md`
 
-## Drafting Rules
+## 正文写作规则
 
-1. Do not invent new world rules unless explicitly asked.
-2. Do not resolve a major mystery earlier than the outline allows.
-3. Keep point of view, tense, and tone consistent with `01_bible/style.md`.
-4. When asked to continue a chapter, first propose scene beats unless the user asks for direct drafting.
-5. Prefer one scene at a time over full-chapter generation.
-6. If continuity is uncertain, flag it before writing.
+1. 除非用户明确要求，否则不要擅自发明新的世界规则。
+2. 不要比大纲计划更早揭开重大谜底。
+3. 视角、时态和语气要与 `01_bible/style.md` 保持一致。
+4. 当用户要求续写章节时，除非明确要求直接出正文，否则先给出场景节拍。
+5. 优先一次只写一场戏，而不是一次写完整一章。
+6. 如果连续性存在不确定点，先指出问题，再开始写。
 
-## Revision Rules
+## 修订规则
 
-1. Separate line-level polish from structural rewrite.
-2. When revising, preserve canon facts unless the user requests a retcon.
-3. Record meaningful canon changes in `00_system/changelog.md`.
-4. Record dangling clues, contradictions, and callback obligations in `05_review/`.
+1. 把行文润色和结构重写区分开。
+2. 修订时默认保留既有正典，除非用户明确要求重设。
+3. 任何有意义的正典变更，都要记录到 `00_system/changelog.md`。
+4. 未回收线索、矛盾点和后续必须呼应的内容，要记录到 `05_review/`。
 
-## File Discipline
+## 文件纪律
 
-1. Keep one major subject per file.
-2. Prefer updating the correct reference file instead of burying canon in draft prose.
-3. Use scene cards to control local intent before writing long passages.
+1. 每个文件只承载一个主要主题。
+2. 正典信息应更新到正确的参考文件里，不要只埋在正文中。
+3. 在写长段正文之前，先用场景卡控制这一场戏的局部目标。
 
-## Default Assistance Modes
+## 默认协作模式
 
-- Brainstorming: offer multiple options with tradeoffs.
-- Drafting: write to the current scene card and style guide.
-- Continuity check: compare draft text against world files and outline.
-- Rewrite: explain what changes in rhythm, clarity, and subtext.
+- 脑暴：给出多个可选方案，并说明各自取舍。
+- 正文写作：依据当前场景卡和文风文件生成内容。
+- 连续性检查：拿正文对照世界设定和大纲。
+- 重写：解释节奏、清晰度和潜台词上的调整。

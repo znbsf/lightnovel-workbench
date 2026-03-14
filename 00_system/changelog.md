@@ -1,14 +1,14 @@
-# Changelog
+# 变更记录
 
-Record decisions that change canon, structure, or writing direction.
+把会影响正典、结构或写作方向的决定记在这里。
 
-## Template
+## 模板
 
 ```text
-Date:
-Scope:
-Change:
-Reason:
-Affected Files:
-Follow-up:
+日期：
+范围：
+变更：
+原因：
+影响文件：
+后续动作：
 ```

@@ -1,24 +1,24 @@
-# Taboo And Guardrails
+# 禁区与护栏
 
-Use this file for elements the novel should not do, even if they seem tempting in the moment.
+把那些即使一时看起来很诱人、也不应该出现在这部小说里的元素写在这里。
 
-## Story-Level Prohibitions
+## 故事层面的禁止项
 
-- Example: no chosen-one prophecy
-- Example: no last-minute hidden sibling reveal
+- 例：不要出现天选之子预言
+- 例：不要在最后一刻突然揭示隐藏兄弟姐妹
 
-## Prose-Level Prohibitions
+## 行文层面的禁止项
 
-- Example: no explanatory monologues that state the theme
-- Example: no internet slang
+- 例：不要用直接解释主题的说教式独白
+- 例：不要使用网络流行语
 
-## Character Guardrails
+## 人物护栏
 
-- Character:
-  Never:
-  Rarely:
+- 人物：
+  绝不会做：
+  尽量少做：
 
-## Pacing Guardrails
+## 节奏护栏
 
-- Mysteries that must stay unresolved until:
-- Revelations that must be foreshadowed before use:
+- 哪些谜团必须拖到什么时候之后才能揭示：
+- 哪些真相在使用前必须先埋下伏笔：

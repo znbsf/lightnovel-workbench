@@ -1,42 +1,42 @@
-# Character Template
+# 人物模板
 
-## Header
+## 基本信息
 
-- Name:
-- Role:
-- Status:
-- First appearance:
+- 姓名：
+- 角色定位：
+- 当前状态：
+- 首次出场：
 
-## Public Surface
+## 外在呈现
 
-- What others see:
-- Typical speech pattern:
-- Default emotional mask:
+- 别人眼中的样子：
+- 典型说话方式：
+- 默认情绪面具：
 
-## Inner Engine
+## 内在驱动
 
-- Core desire:
-- Core fear:
-- Hidden wound:
-- False belief:
+- 核心欲望：
+- 核心恐惧：
+- 隐藏创伤：
+- 错误信念：
 
-## Story Function
+## 剧情功能
 
-- Plot utility:
-- Theme connection:
-- Key relationships:
+- 推动剧情的作用：
+- 与主题的连接：
+- 关键关系：
 
-## Boundaries
+## 边界
 
-- What this character would never do:
-- What would break them:
+- 这个人物绝不会做什么：
+- 什么会真正击垮他或她：
 
-## Arc
+## 弧光
 
-- Starting state:
-- Midpoint shift:
-- Ending state:
+- 起始状态：
+- 中段转折：
+- 结尾状态：
 
-## Canon Facts
+## 正典事实
 
-List only facts that are already true in the story.
+这里只写故事中已经确定为真的事实。

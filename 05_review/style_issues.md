@@ -1,10 +1,10 @@
-# Style Issues
+# 文风问题
 
-Track repeated voice problems instead of fixing them from memory every time.
+把反复出现的文风问题记录下来，不要每次都靠记忆去修。
 
-## Template
+## 模板
 
-- Problem:
-  Example:
-  Preferred fix:
-  Status:
+- 问题：
+  示例：
+  优先修法：
+  状态：

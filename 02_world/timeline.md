@@ -1,20 +1,20 @@
-# Timeline
+# 时间线
 
-Use this file as the factual sequence of events.
+把这份文件当作事实顺序表来维护。
 
-## Before The Story
+## 故事开始之前
 
-- Date or period:
-  Event:
-  Consequence:
+- 日期或时期：
+  事件：
+  后果：
 
-## Main Story
+## 正篇时间线
 
-- Chapter or marker:
-  Event:
-  Who knows it:
-  Who does not:
+- 章节或标记点：
+  事件：
+  谁知道：
+  谁不知道：
 
-## Aftermath Notes
+## 余波备注
 
-Track consequences that should ripple into later scenes.
+记录那些应该影响后续场景的连锁后果。

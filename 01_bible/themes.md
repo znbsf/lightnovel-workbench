@@ -1,15 +1,15 @@
-# Themes
+# 主题
 
-## Primary Themes
+## 核心主题
 
-- Theme:
-  Why it matters:
-  How it appears on the page:
+- 主题：
+  为什么重要：
+  它如何在正文中出现：
 
-## Moral Pressure Points
+## 道德压力点
 
-List the recurring choices that test the characters.
+列出那些会反复逼迫人物做选择的问题。
 
-## Transformation Questions
+## 转变问题
 
-What question should each major character answer by the end?
+每个主要角色在故事结束时，应该回答怎样的问题？

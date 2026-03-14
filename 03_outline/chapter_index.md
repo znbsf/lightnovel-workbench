@@ -1,7 +1,7 @@
-# Chapter Index
+# 章节索引
 
-Use one line per chapter once the structure stabilizes.
+当结构稳定以后，每章占一行。
 
-| Chapter | POV | Purpose | Conflict | End Hook | Status |
+| 章节 | 视角 | 章节作用 | 冲突 | 结尾钩子 | 状态 |
 |---|---|---|---|---|---|
-| 01 | TBD | TBD | TBD | TBD | planned |
+| 01 | 待定 | 待定 | 待定 | 待定 | 计划中 |

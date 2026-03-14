@@ -1,39 +1,39 @@
-# Style Guide
+# 文风指南
 
-## Narrative Lens
+## 叙述镜头
 
-- Person:
-- Tense:
-- Distance from POV:
-- Allowed POV shifts:
+- 人称：
+- 时态：
+- 与视角人物的距离：
+- 允许的视角切换：
 
-## Rhythm
+## 节奏
 
-- Average sentence feel:
-- Paragraph density:
-- Dialogue ratio:
-- Description ratio:
+- 句子整体感觉：
+- 段落密度：
+- 对话比例：
+- 描写比例：
 
-## Texture
+## 质感
 
-- Dominant sensory channels:
-- Recurring image families:
-- Emotional temperature:
-- Humor level:
+- 主要感官通道：
+- 重复出现的意象家族：
+- 情绪温度：
+- 幽默程度：
 
-## Dialogue Rules
+## 对话规则
 
-- Speech length:
-- Subtext level:
-- Directness:
-- Repetition habits:
+- 发言长度：
+- 潜台词浓度：
+- 直接程度：
+- 重复习惯：
 
-## Hard Constraints
+## 硬约束
 
-- Avoid:
-- Never use:
-- Keep rare:
+- 尽量避免：
+- 绝不使用：
+- 保持稀少：
 
-## Reference Passages
+## 参考段落
 
-Paste 2 to 4 short passages that define the voice of the novel.
+贴 2 到 4 段最能定义本书声音的短段落。
